@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/quizkr/static/css/main.959c0ab8.css",
+    "main.js": "/github.io/quizkr/static/js/main.eff783f6.js",
+    "static/js/787.68c1d3e2.chunk.js": "/github.io/quizkr/static/js/787.68c1d3e2.chunk.js",
+    "static/media/Quizicon.svg": "/github.io/quizkr/static/media/Quizicon.bdcc1f66d85f1a1f8b3693ce775b7b2f.svg",
+    "index.html": "/github.io/quizkr/index.html",
+    "main.959c0ab8.css.map": "/github.io/quizkr/static/css/main.959c0ab8.css.map",
+    "main.eff783f6.js.map": "/github.io/quizkr/static/js/main.eff783f6.js.map",
+    "787.68c1d3e2.chunk.js.map": "/github.io/quizkr/static/js/787.68c1d3e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.959c0ab8.css",
+    "static/js/main.eff783f6.js"
+  ]
+}
